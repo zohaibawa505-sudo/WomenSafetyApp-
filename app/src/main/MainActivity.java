@@ -1,4 +1,4 @@
-package com.example.womensafety;
+package com.womensafety.app;
 
 import android.app.Activity;
 import android.os.Bundle;
